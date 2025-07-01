@@ -3,7 +3,7 @@
         "id": "230410000001",
         "name": "Balram Sharma",
         "attConcept": 88.24,
-        "attApplied": 26.47,
+        "attApplied": 58.82,
         "marksConcept": 24.8,
         "marksApplied": 33.5
     },
@@ -11,7 +11,7 @@
         "id": "230410200001",
         "name": "Umesh Sarki",
         "attConcept": 88.24,
-        "attApplied": 35.29,
+        "attApplied": 67.65,
         "marksConcept": 36.4,
         "marksApplied": 33.0
     },
@@ -19,7 +19,7 @@
         "id": "230410000002",
         "name": "Amit Bhagat",
         "attConcept": 88.24,
-        "attApplied": 42.65,
+        "attApplied": 75.0,
         "marksConcept": 45.1,
         "marksApplied": 40.0
     },
@@ -75,7 +75,7 @@
         "id": "230410000020",
         "name": "Thandup Sherpa",
         "attConcept": 88.24,
-        "attApplied": 35.29,
+        "attApplied": 66.18,
         "marksConcept": 39.65,
         "marksApplied": 37.0
     },
@@ -115,7 +115,7 @@
         "id": "230410100003",
         "name": "Roshan Nepal",
         "attConcept": 88.24,
-        "attApplied": 48.53,
+        "attApplied": 50.0,
         "marksConcept": 30.5,
         "marksApplied": 30.0
     },
@@ -155,7 +155,7 @@
         "id": "230410100004",
         "name": "Subodh Sharma",
         "attConcept": 52.94,
-        "attApplied": 32.35,
+        "attApplied": 64.71,
         "marksConcept": 6.1,
         "marksApplied": 33.0
     },
@@ -243,7 +243,7 @@
         "id": "230410100005",
         "name": "Ankit Chhetri",
         "attConcept": 88.24,
-        "attApplied": 35.29,
+        "attApplied": 67.65,
         "marksConcept": 46.8,
         "marksApplied": 40.0
     }
